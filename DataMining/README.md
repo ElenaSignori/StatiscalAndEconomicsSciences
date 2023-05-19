@@ -15,4 +15,4 @@ It was a text mining problem based on transcriptions of some Donal Trump speeche
 • BBC ARTICLES - TEXT MINING
 This was the exam project carried out in team with other two students.
 It was a text mining problem based on BBC articles. The articles were about two topics: sport and politics. 
-The goal was to classificate articles using text mining methods.
+The goal was to classify articles using text mining methods.
